@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             mc:Ignorable="d"
+             x:Class="finalprojectv1.LinkingPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout VerticalOptions="Center"
+                 Margin="10">
+            <!--<Button x:Name="classEntryPage"
+                Margin="0,50,0,0"
+                Text="Enter Classes"
+                Clicked="classEntryPage_Clicked"    />-->
+
+
+                <Label FontSize="20" Text="Class Periods Where Students Have Covid"></Label>
+                <forms:ChartView x:Name="chart1" HeightRequest="250" />
+                
+                <Button x:Name="tempEntryPage"
+                Margin="0,50,0,0"
+                Text="Daily Temperature Entry"
+                Clicked="tempEntryPage_Clicked"    />
+            
+            <Button x:Name="diagnosticCenter"
+                Margin="0,50,0,0"
+                Text="Get a Reccomendation"
+                Clicked="diagnosticCenter_Clicked"    />
+                <Button x:Name="checkClass"
+                Margin="0,50,0,0"
+                Text="Check Classes for Covid"
+                Clicked="checkClass_Clicked"    />
+            
+          
+
+
+
+
+
+
+
+
+
+
+
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

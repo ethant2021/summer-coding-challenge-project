@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "j90trvgsbI7+GckFIuZWfh2AgnjNP7jzCdfHFVUupFK83DmxlotmQAiXs5inYpjTun1+HCIicfLdY7vIgzR7Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\source\\repos\\finalprojectv3.3\\finalprojectv1\\finalprojectv1.iOS\\finalprojectv1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microcharts\\0.7.1\\microcharts.0.7.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\microcharts.forms\\0.7.1\\microcharts.forms.0.7.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.azure.mobile.client\\4.1.2\\microsoft.azure.mobile.client.4.1.2.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\pclcrypto\\2.0.147\\pclcrypto.2.0.147.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\pinvoke.bcrypt\\0.3.2\\pinvoke.bcrypt.0.3.2.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\pinvoke.kernel32\\0.3.2\\pinvoke.kernel32.0.3.2.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\pinvoke.ncrypt\\0.3.2\\pinvoke.ncrypt.0.3.2.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\pinvoke.windows.core\\0.3.2\\pinvoke.windows.core.0.3.2.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\skiasharp\\1.59.1\\skiasharp.1.59.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\skiasharp.views\\1.59.1.1\\skiasharp.views.1.59.1.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\skiasharp.views.forms\\1.59.1.1\\skiasharp.views.forms.1.59.1.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\validation\\2.2.8\\validation.2.2.8.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

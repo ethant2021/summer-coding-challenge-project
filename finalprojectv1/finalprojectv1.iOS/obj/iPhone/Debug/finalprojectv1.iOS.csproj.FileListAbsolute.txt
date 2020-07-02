@@ -1,0 +1,16 @@
+C:\Users\ethan\source\repos\finalprojectv1.6\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\ethan\source\repos\finalprojectv1.6\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\ethan\source\repos\finalprojectv1.6\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\ethan\source\repos\finalprojectv1.6\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\ethan\source\repos\finalprojectv1.6\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\ethan\source\repos\finalprojectv1.6\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\optimized\
+C:\Users\ethan\source\repos\finalprojectv1.6\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\finalprojectv1.iOS.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\finalprojectv1.6\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\finalprojectv1.iOS.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\finalprojectv1.7\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\ethan\source\repos\finalprojectv1.7\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\ethan\source\repos\finalprojectv1.7\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\ethan\source\repos\finalprojectv1.7\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\ethan\source\repos\finalprojectv1.7\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\ethan\source\repos\finalprojectv1.7\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\optimized\
+C:\Users\ethan\source\repos\finalprojectv1.7\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\finalprojectv1.iOS.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\finalprojectv1.7\finalprojectv1\finalprojectv1.iOS\obj\iPhone\Debug\finalprojectv1.iOS.csproj.CoreCompileInputs.cache

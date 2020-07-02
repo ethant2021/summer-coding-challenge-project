@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             x:Class="finalprojectv1.HomePage">
+  <!--Pages can be added as references or inline-->
+
+
+    <ContentPage>
+        <StackLayout VerticalOptions="Center"
+                 Margin="20">
+        
+            <Picker x:Name="covidPicker"
+        Title="Do you have COVID-19?"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Positive</x:String>
+                        <x:String>Negative</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--selects a class-->
+
+            <Entry x:Name="tempEntry" x:DataType="x:Decimal" Keyboard="Numeric" Placeholder="What is your temperature?"/>
+
+            
+            <!--<Entry x:Name="covidEntry"
+               Placeholder="Are you Positive or Negative for COVID?"/>-->
+            
+            <Button x:Name="infoButton"
+                Text="Confirm"
+                Clicked="InfoButton_Clicked"/>
+            
+            <Button x:Name="updateButton"
+                Text="Check Again"
+                HorizontalOptions="End"
+                Clicked="updateButton_Clicked"/>
+
+
+        </StackLayout>
+        
+    </ContentPage>
+    
+    
+    
+    
+    
+    
+</TabbedPage>

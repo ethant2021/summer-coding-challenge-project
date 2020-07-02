@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="finalprojectv1.DiagnoseCenter">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                 Margin="20">
+
+            <Picker x:Name="feverPicker"
+        Title="Do you have a fever?"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Yes</x:String>
+                        <x:String>No</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Picker x:Name="coughPicker"
+        Title="Do you have a cough?"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Yes</x:String>
+                        <x:String>No</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Picker x:Name="breathingPicker"
+        Title="Do you have a difficulty breathing?"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Yes</x:String>
+                        <x:String>No</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Picker x:Name="headachePicker"
+        Title="Do you have a headache?"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Yes</x:String>
+                        <x:String>No</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Picker x:Name="musclePicker"
+        Title="Do you have muscle aches?"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Yes</x:String>
+                        <x:String>No</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Picker x:Name="diarrheaPicker"
+        Title="Do you have a Diarrhea?"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Yes</x:String>
+                        <x:String>No</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+
+
+            <Button x:Name="checkSymptoms"
+                Margin="0,50,0,0"
+                Text="Check Symptoms"
+                Clicked="checkSymptoms_Clicked"    />
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

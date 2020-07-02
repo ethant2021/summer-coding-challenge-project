@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="finalprojectv1.ClassEntryPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker x:Name="classPicker1"
+        Title="Pick a class"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mr Smiths class</x:String>
+                        <x:String>Mr Heratys class</x:String>
+                        <x:String>Mr Thackerys class</x:String>
+                        <x:String>Mr Johnnys class</x:String>
+                        <x:String>Mr Lawrences class</x:String>
+                        <x:String>Mr Philips class</x:String>
+                        <x:String>Mr Jeremys class</x:String>
+                        <x:String>Mr Harolds class</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--selects a class-->
+            <Picker x:Name="classPicker2"
+        Title="Pick a class"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mr Smiths class</x:String>
+                        <x:String>Mr Heratys class</x:String>
+                        <x:String>Mr Thackerys class</x:String>
+                        <x:String>Mr Johnnys class</x:String>
+                        <x:String>Mr Lawrences class</x:String>
+                        <x:String>Mr Philips class</x:String>
+                        <x:String>Mr Jeremys class</x:String>
+                        <x:String>Mr Harolds class</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--selects a class-->
+            <Picker x:Name="classPicker3"
+        Title="Pick a class"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mr Smiths class</x:String>
+                        <x:String>Mr Heratys class</x:String>
+                        <x:String>Mr Thackerys class</x:String>
+                        <x:String>Mr Johnnys class</x:String>
+                        <x:String>Mr Lawrences class</x:String>
+                        <x:String>Mr Philips class</x:String>
+                        <x:String>Mr Jeremys class</x:String>
+                        <x:String>Mr Harolds class</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--selects a class-->
+            <Picker x:Name="classPicker4"
+        Title="Pick a class"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mr Smiths class</x:String>
+                        <x:String>Mr Heratys class</x:String>
+                        <x:String>Mr Thackerys class</x:String>
+                        <x:String>Mr Johnnys class</x:String>
+                        <x:String>Mr Lawrences class</x:String>
+                        <x:String>Mr Philips class</x:String>
+                        <x:String>Mr Jeremys class</x:String>
+                        <x:String>Mr Harolds class</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--selects a class-->
+            <Picker x:Name="classPicker5"
+        Title="Pick a class"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mr Smiths class</x:String>
+                        <x:String>Mr Heratys class</x:String>
+                        <x:String>Mr Thackerys class</x:String>
+                        <x:String>Mr Johnnys class</x:String>
+                        <x:String>Mr Lawrences class</x:String>
+                        <x:String>Mr Philips class</x:String>
+                        <x:String>Mr Jeremys class</x:String>
+                        <x:String>Mr Harolds class</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--selects a class-->
+            <Picker x:Name="classPicker6"
+        Title="Pick a class"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mr Smiths class</x:String>
+                        <x:String>Mr Heratys class</x:String>
+                        <x:String>Mr Thackerys class</x:String>
+                        <x:String>Mr Johnnys class</x:String>
+                        <x:String>Mr Lawrences class</x:String>
+                        <x:String>Mr Philips class</x:String>
+                        <x:String>Mr Jeremys class</x:String>
+                        <x:String>Mr Harolds class</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--selects a class-->
+            <Picker x:Name="classPicker7"
+        Title="Pick a class"
+        TitleColor="Blue">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mr Smiths class</x:String>
+                        <x:String>Mr Heratys class</x:String>
+                        <x:String>Mr Thackerys class</x:String>
+                        <x:String>Mr Johnnys class</x:String>
+                        <x:String>Mr Lawrences class</x:String>
+                        <x:String>Mr Philips class</x:String>
+                        <x:String>Mr Jeremys class</x:String>
+                        <x:String>Mr Harolds class</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--selects a class-->
+
+            <Button x:Name="classEntryButton"
+                Text="Confirm Classes"
+                Clicked="classEntryButton_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
