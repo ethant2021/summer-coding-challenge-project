@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1Nx8sFN-PUsTd2WeTmRvJzpAvuLuDa-FQmgP8hCdokjQ/
 -- Firewall is taken down so if you run the code in visual studio and actually deploy it you should be able to use it exactly as intended
 
 
-https://github.com/ethant2021/XamarinProject for web app backend
+https://github.com/ethant2021/web-app-backend for web app backend
 
 
 To be able to run the program you have multiple options, you can either install an emulator through visual studio or you can enable developer mode on a android phone and deploy using that. 
