@@ -3,7 +3,7 @@
 sql data base table screen shots
 https://docs.google.com/document/d/1Nx8sFN-PUsTd2WeTmRvJzpAvuLuDa-FQmgP8hCdokjQ/edit?usp=sharing
 
-
+-- Database expires in 19 days
 -- Firewall is taken down so if you run the code in visual studio and actually deploy it you should be able to use it exactly as intended
 
 
