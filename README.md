@@ -1,8 +1,11 @@
 # Nextech Project 
 
 sql data base table screen shots
--- Firewall is taken down so if you run the code in visual studio and actually deploy it you should be able to use it exactly as intended
 https://docs.google.com/document/d/1Nx8sFN-PUsTd2WeTmRvJzpAvuLuDa-FQmgP8hCdokjQ/edit?usp=sharing
+
+
+-- Firewall is taken down so if you run the code in visual studio and actually deploy it you should be able to use it exactly as intended
+
 
 https://github.com/ethant2021/XamarinProject for web app
 
